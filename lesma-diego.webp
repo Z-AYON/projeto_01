@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ensaio — Lukas zayon</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<center>
+<h1><b>Lesmas da Tropa</b></h1>
+</center>
+
+<h2>Campanha:</h2>
+
+<p>
+<b><u>Slugterra</u></b> é habitada por criaturas mágicas: as <b><u>Lesmas</u></b>. 
+Elas funcionam como munição para armas superpoderosas chamadas Blasters. 
+Existem <b><u>lesmas</u></b> de todos os formatos e tamanhos, encontradas em diferentes cavernas, e algumas são mais raras que outras, às vezes até únicas. 
+As <b><u>Lesmas</u></b> podem se transformar a uma certa velocidade, que é de 200 km/h. Campeonatos, 
+</p>
+
+<h3>Equipe Delta:</h3>
+
+<div style="display: flex; align-items: center; gap: 20px; padding-bottom: 20px;">
+<img src="image/LUKAS-LIDER.jpg" width="310px">
+
+<ol>
+<h4>LUKAS-LIDER</h4>
+<li>Capacidade de inspirar e motivar a equipe</li>
+<li>Comunicar com clareza e assertividade</li>
+<li>Tomar decisões estratégicas, mesmo sob pressão.</li>
+</ol>
+
+<img src="https://static.wikia.nocookie.net/slugterra/images/f/fb/2.png/revision/latest?cb=20130824013213&path-prefix=pt-br" height="150">
+</div>
+
+
+<div style="display: flex; align-items: center; gap: 20px; padding-bottom: 20px;">
+<img src="image/GERMANO-MASCOTE.jpg" width="310px">
+
+<ol>
+<h4>GERMANO-MASCOTE</h4>
+<li>Memorável</li>
+<li>Simpatico</li>
+<li>Original</li>
+</ol>
+
+<img src="https://static.wikia.nocookie.net/slugterra/images/f/fb/Bubbleone1.png" height="150">
+</div>
+
+
+<div style="display: flex; align-items: center; gap: 20px; padding-bottom: 20px;">
+<img src="image/CRIS-ESCAVADEIRA.jpg" width="310px">
+
+<ol>
+<h4>CRIS-ESCAVADEIRA</h4>
+<li>Estrutura giratória (360º)</li>
+<li>Braço articulado</li>
+<li>Alta potência hidráulica</li>
+</ol>
+
+<img src="https://static.wikia.nocookie.net/slugterra/images/c/ce/Opening_Rammstone.png/revision/latest?cb=20130710195535&path-prefix=pt-br" height="150">
+</div>
+
+
+<div style="display: flex; align-items: center; gap: 20px; padding-bottom: 20px;">
+<img src="image/DIEGO-GATINHO.jpg" width="310px">
+
+<ol>
+<h4>DIEGO-GATINHO</h4>
+<li>Agilidade</li>
+<li>Corpo flexível</li>
+<li>Garras retráteis</li>
+</ol>
+
+<img src="" height="150">
+</div>
+
+</body>
+</html>
